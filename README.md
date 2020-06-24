@@ -1,5 +1,5 @@
 
-#Credit to Paradoxis <luke@paradoxis.nl> for Windows-Sound-Manager which enables the volume control
+Credit to Paradoxis <luke@paradoxis.nl> for Windows-Sound-Manager which enables the volume control
 
 #Usage
 simply give the hour u wish to be woken up at when prompted
