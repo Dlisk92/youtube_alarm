@@ -4,7 +4,8 @@ to Paradoxis <luke@paradoxis.nl> for Windows-Sound-Manager which enables the vol
 
 # Usage
 simply give the hour u wish to be woken up at when prompted
-you can also feed in what ever url you want to play(I have added a default option)((a playlist is probably better then a single video))
+you can also feed in what ever url you want to play
+(I have added a default option)((a playlist is probably better then a single video))
 when the hour is reached this script sets system volume to max and goes to the url in selenium
 
 # TODO
